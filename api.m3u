@@ -43,6 +43,88 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/6c08342090703c
 #EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_AR.bein" tvg-name="beIN SPORTS7 UHD" tvg-logo="https://i.imgur.com/eC8YRZT.png" group-title="beIN SPORTS UHD",beIN SPORTS7 UHD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/df5181a2955f69f.m3u8
 
+#EXTINF: -1 tvg-id="ext" group-title="☆ SPORT ☆", FC Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8?blacktv.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3baqwl3" group-title="☆ SPORT ☆",ALKASS ONE
+ https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwo/hdntl=exp=1618693331~acl=%2f*~data=hdntl~hmac=aeb68f45f9a9e7fc2389bed3419d2b018d02a118c552d51fe4eed3dd2c620cbe/master570.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2ZdRkeq" group-title="☆ SPORT ☆",ALKASS TWO
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwo/hdntl=exp=1618693368~acl=%2f*~data=hdntl~hmac=ba52163f894bce9f203e78c552a978def49d5ff4b7178e48de2d892dae557067/master570.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3dqH6Qr" group-title="☆ SPORT ☆",ALKASS FOUR
+https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassFour/hdntl=exp=1618693259~acl=%2f*~data=hdntl~hmac=cbcce28fc03ecbe4a0134918d3e115240badc528b70e73bda106f133690a2f18/master570.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/2LQn3PL" group-title="☆ SPORT ☆",ALKASS FIVE
+https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassFive/hdntl=exp=1618693389~acl=%2f*~data=hdntl~hmac=590f06175fddf094a3bca376451e9e7b407f1a65c2aafca2084f26c8a3cce1c4/master570.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="☆ SPORT ☆",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="☆ SPORT ☆",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="☆ SPORT ☆",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="☆ SPORT ☆",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/YasSports.png" group-title="☆ SPORT ☆",Abu Dhabi Sports Yas TV
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="☆ SPORT ☆",Dubai SPORT 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="☆ SPORT ☆",Dubai SPORT 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="☆ SPORT ☆",Dubai SPORT 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="☆ SPORT ☆",DubaiRacing 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="☆ SPORT ☆",DubaiRacing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/39XxIQQ" group-title="☆ SPORT ☆",DubaiRacing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/364Yl52" group-title="☆ SPORT ☆",kuwait S.plus FHD
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3cbhOEW" group-title="☆ SPORT ☆",KTV Sport FHD
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/925452512408293376/xHZe-67F_400x400.jpg" group-title="☆ SPORT ☆",البحرين الرياضية
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/10/Oman-TV-Sport.jpg" group-title="☆ SPORT ☆",Oman SPORT
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://i.ytimg.com/vi/luVrnnhEa2s/hqdefault.jpg" group-title="☆ SPORT ☆",Jordan SPORT
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3sOSuuw" group-title="☆ SPORT ☆",Maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://pbs.twimg.com/profile_images/809380693914619904/Ww1MdxsQ_400x400.jpg" group-title="☆ SPORT ☆",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="LIBYA SPORTS HD" tvg-logo="https://www.iqraa.news/wp-content/uploads/2021/02/%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A 
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3rU8lH4" group-title="☆ SPORT ☆",اون تايم سبورت
+http://mixistv.link:8080/live/rgzfzfdh/zghzh/89.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://bit.ly/3b3Y8AT" group-title="☆ SPORT ☆",اون تايم سبورت 3
+http://mixistv.link:8080/live/rgzfzfdh/zghzh/80.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="☆ SPORT ☆",Sport TV 1
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="☆ SPORT ☆",Sport TV 2
+http://77.54.145.209:81/play/a02j 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="☆ SPORT ☆",Sport TV 3
+http://77.54.145.209:81/play/a02n 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="☆ SPORT ☆",Sport TV 4
+http://77.54.145.209:81/play/a02o 
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="☆ SPORT ☆",REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title="☆ SPORT ☆",Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="☆ SPORT ☆",FOX SPORTS 1 
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="☆ SPORT ☆",FOX SPORTS 2 (MOTO GP)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="" group-title="☆ SPORT ☆",FOX SPORT 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/tennis.png" group-title="☆ SPORT ☆",ennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title="☆ SPORT ☆",PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title="☆ SPORT ☆",PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title="☆ SPORT ☆",PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title="☆ SPORT ☆",PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="ext"tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title="☆ SPORT ☆",PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id=" "tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC HD 4K",MBC 1 
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
