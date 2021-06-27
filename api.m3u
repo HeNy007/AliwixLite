@@ -1,5 +1,5 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Live 1" tvg-logo="https://static.wixstatic.com/media/029ae7_a1e1c71e44954355b2dfc9d4bc333049~mv2.png/v1/fill/w_340,h_330,al_c,q_85,usm_0.66_1.00_0.01/logo%20insta.webp" group-title="update", update > https://aliwixplay.netlify.app
+#EXTINF:-1 tvg-id="" tvg-name="Live 1" tvg-logo="https://static.wixstatic.com/media/029ae7_a1e1c71e44954355b2dfc9d4bc333049~mv2.png/v1/fill/w_340,h_330,al_c,q_85,usm_0.66_1.00_0.01/logo%20insta.webp" group-title="update",update 
 https://live-gwott.cdnvideo.ru/gwott/calvin/chunklist.m3u8
