@@ -1,5 +1,48 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1,ALIWIXPLAY IPTV
+https://aliwixplay.tn/live/aplay_720p.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Live 1" tvg-logo="https://static.wixstatic.com/media/029ae7_a1e1c71e44954355b2dfc9d4bc333049~mv2.png/v1/fill/w_340,h_330,al_c,q_85,usm_0.66_1.00_0.01/logo%20insta.webp" group-title="update",update 
-https://live-gwott.cdnvideo.ru/gwott/calvin/chunklist.m3u8
+#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=43
+#EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=44
+#EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=45
+#EXTINF:-1,beIN SPORTS PREMIUM3 FullHD
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=46
+#EXTINF:-1,beIN SPORTS FullHD1
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=47
+#EXTINF:-1,beIN SPORTS FullHD2
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=48
+#EXTINF:-1,beIN SPORTS FullHD3
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=49
+#EXTINF:-1,beIN SPORTS FullHD4
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=50
+#EXTINF:-1,beIN SPORTS FullHD5
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=51
+#EXTINF:-1,beIN SPORTS FullHD6
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=52
+#EXTINF:-1,beIN SPORTS FullHD7
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=53
+#EXTINF:-1,•●★★--- beIN SPORTS Hevc 265H ---★★●•
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=54
+#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=55
+#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=56
+#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=57
+#EXTINF:-1,beIN SPORTS1 H265
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=58
+#EXTINF:-1,beIN SPORTS2 H265
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=59
+#EXTINF:-1,beIN SPORTS3 H265
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=60
+#EXTINF:-1,beIN SPORTS4 H265
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=61
+#EXTINF:-1,beIN SPORTS5 H265
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=62
+#EXTINF:-1,beIN SPORTS6 H265
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=63
+#EXTINF:-1,beIN SPORTS7 H265
+https://aplays.herokuapp.com/script/iptv/ts?token=1198191109&ch=64
